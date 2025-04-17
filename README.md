@@ -1,2 +1,2 @@
-# first-repo
-
+Our project is a Thyroid Disease Diagnosis Assistant, a web-based platform designed to streamline the diagnostic process for thyroid-related conditions. 
+By integrating medical imaging analysis and laboratory test results, our system provides accurate, efficient, and user-friendly diagnostic support for healthcare professionals. This tool aims to enhance diagnostic speed and reliability while offering an accessible solution for thyroid disease assessment
